@@ -2,7 +2,7 @@
 
 **CADI: Introducción a Machine Learning – Universidad de Cundinamarca**
 Live demo / Despliegue: (https://ucund-mentor.onrender.com)
-Video (EN): `PEGA_AQUI_TU_LINK_DEL_VIDEO`
+Video (EN): No disponible
 Author / Autor:Juan Pablo Sanchez Rodriguez
 
 ## Qué es / What it is
