@@ -1,9 +1,9 @@
 # UCund Mentor 🎓 — AI Agent / Chatbot (Gemini + RAG + CRUD)
 
 **CADI: Introducción a Machine Learning – Universidad de Cundinamarca**
-Live demo / Despliegue: `PEGA_AQUI_TU_URL_DE_RENDER`
+Live demo / Despliegue: (https://ucund-mentor.onrender.com)
 Video (EN): `PEGA_AQUI_TU_LINK_DEL_VIDEO`
-Author / Autor: `TU NOMBRE`
+Author / Autor:Juan Pablo Sanchez Rodriguez
 
 ## Qué es / What it is
 **ES:** Asistente conversacional para estudiantes de Introducción a Machine Learning. Responde con una base de conocimiento (RAG), tiene un *system prompt* que restringe el dominio y es un **agente** que hace CRUD de notas de estudio mediante *function calling*.
